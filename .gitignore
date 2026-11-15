@@ -1,0 +1,8 @@
+config/secrets.py
+config/bigquery_key.json
+data/raw/*
+data/processed/*
+__pycache__/
+*.pyc
+.env
+venv/
